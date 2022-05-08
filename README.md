@@ -1,3 +1,5 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nlebachnlb&style=flat-square&color=blue" alt="profile view"></p>
+
 ### Hi there <img width="32" height="32" src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif"/>
 
 <a href="https://www.facebook.com/nlebachnlb">
@@ -16,4 +18,8 @@
 - 👯 I’m looking to collaborate on a story-driven and artistic game project 
 - 💬 Ask me about anything, I am happy to help
 
-<img align="left" src="https://media.giphy.com/media/5b5ENXfk4CsKs4e1aI/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/ayMW3eqvuP00o/giphy.gif"/>
+</div>
+
+<br/>
